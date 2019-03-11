@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Web Api", "Test Web Api\Test Web Api.csproj", "{9D84E6B9-E3B8-4820-B4E9-CC2F26396CAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{B0B0A8C6-3557-49BF-93CB-FBB0B76F2D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Helper.ContentWrapper.MVC", "E:\MyProj\Content Wrapper Helper\MVC\Helpers\Api.Helper.ContentWrapper.MVC\Api.Helper.ContentWrapper.MVC.csproj", "{026E47EA-BC6C-45A0-BC07-105DB6FEB7E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D84E6B9-E3B8-4820-B4E9-CC2F26396CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D84E6B9-E3B8-4820-B4E9-CC2F26396CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D84E6B9-E3B8-4820-B4E9-CC2F26396CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D84E6B9-E3B8-4820-B4E9-CC2F26396CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026E47EA-BC6C-45A0-BC07-105DB6FEB7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026E47EA-BC6C-45A0-BC07-105DB6FEB7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026E47EA-BC6C-45A0-BC07-105DB6FEB7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026E47EA-BC6C-45A0-BC07-105DB6FEB7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{026E47EA-BC6C-45A0-BC07-105DB6FEB7E2} = {B0B0A8C6-3557-49BF-93CB-FBB0B76F2D84}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {922A456C-F006-40AE-A2E5-737B2851C4A0}
+	EndGlobalSection
+EndGlobal
